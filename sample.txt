@@ -5,3 +5,4 @@ fifth line
 Entering into the fourthline
 
 git fetch command v
+git pull command exectuion
